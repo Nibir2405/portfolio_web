@@ -48,5 +48,5 @@ This project is licensed under the MIT License.
 ## Contact
 
 - Email: nibirislam56@gmail.com
-- LinkedIn: [Your LinkedIn Profile](www.linkedin.com/in/navid-ul-islam)
-- GitHub: [Your GitHub Profile](https://github.com/Nibir2405)
+- LinkedIn: [www.linkedin.com/in/navid-ul-islam]
+- GitHub: [https://github.com/Nibir2405]
